@@ -336,6 +336,7 @@
   <constants>Constant.ОтметкаНаФотоснимкеТекст</constants>
   <constants>Constant.Константа</constants>
   <constants>Constant.Константа2</constants>
+  <constants>Constant.Константа1</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
@@ -373,6 +374,7 @@
   <documents>Document.ПриходТовара</documents>
   <documents>Document.РасходТовара</documents>
   <documents>Document.Документ1</documents>
+  <documents>Document.Документ12</documents>
   <documentJournals>DocumentJournal.ДокументыПродаж</documentJournals>
   <documentJournals>DocumentJournal.ФинансовыеДокументы</documentJournals>
   <enums>Enum.ВидыТоваров</enums>
