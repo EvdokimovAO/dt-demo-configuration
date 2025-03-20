@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="222895e8-9a0b-430d-996a-78c850e4f585">
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e0de2c47-13c4-45a8-9a68-da4e9570df7d">
   <producedTypes>
-    <managerType typeId="4cb9edec-e613-47db-835d-56d1b8affc68" valueTypeId="dfb6eb7f-9879-4e6e-b8aa-3520131127f6"/>
-    <valueManagerType typeId="b98eb86d-dc47-48d1-b344-1890b3c482d0" valueTypeId="abe49f63-aaa6-42b2-8485-fed9c3261c85"/>
-    <valueKeyType typeId="c4b911f2-bf00-42a0-8d55-45342f70838f" valueTypeId="ef32d466-5a77-4178-adbe-09d80ad32275"/>
+    <managerType typeId="fa062de1-9f50-4700-a306-55e07c7f1b60" valueTypeId="1fec0da6-3d87-4470-a256-5a0d0048d69c"/>
+    <valueManagerType typeId="ff29dccf-22ac-474e-8abd-98703299baf6" valueTypeId="ad33963b-4d93-44ab-8810-94017710ace2"/>
+    <valueKeyType typeId="dda59a09-5ff0-42b4-857c-5e5597b1c8de" valueTypeId="20354ab5-1f2d-467c-a63e-f02730834ccb"/>
   </producedTypes>
   <name>Константа2</name>
   <synonym>
